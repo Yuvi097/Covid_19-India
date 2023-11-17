@@ -9,4 +9,4 @@ Dataset taken from Kaggle
 
 My Kaggle Profile: https://www.kaggle.com/code/yuvisc10/covid-19-analysis/
 
-Tableau Visualization: 
+Tableau Visualization: https://public.tableau.com/app/profile/yuvraj.singh.chauhan1806/viz/COVID-19InIndiaAnalysis/Dashboard1
