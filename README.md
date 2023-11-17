@@ -8,3 +8,5 @@ The number of new cases are increasing day by day around the world. This dataset
 Dataset taken from Kaggle
 
 My Kaggle Profile: https://www.kaggle.com/code/yuvisc10/covid-19-analysis/
+
+Tableau Visualization: 
